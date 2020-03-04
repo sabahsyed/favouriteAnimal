@@ -1,0 +1,25 @@
+body{
+    color:black;
+    margin: 0 auto;
+
+  
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+   
+
+}
+h1{
+    color:darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    width:100%;
+    padding:10px 10px 20px 20px;
+}
+img{
+    height:400px;
+    width:400px;
+    border:solid black;
+    margin-left: 30%;
+}
